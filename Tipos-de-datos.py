@@ -11,8 +11,8 @@ Nombre: Sofia
 Apellido: Muñoz'''
 
 #En python tenemos diferentes tipos de números
-4#número entero
-40.2#número tipo float
+4#Número entero
+40.2#Número tipo float
 #También tenemos el tipo de datos boolean
 True #Verdadero
 False #Falso
