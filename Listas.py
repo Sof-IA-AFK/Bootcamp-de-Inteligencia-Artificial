@@ -32,3 +32,4 @@ print(numbers)
 del numbers[:2]
 print(numbers)
 del numbers
+#print(numbers)
